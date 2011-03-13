@@ -33,7 +33,7 @@ usage
 
 host/sqftenvy/lon,lat,radius
 
-lon: longitude in EPSG:4326
-lat: latitude in EPSG:4326
-radius: radius in meters
+* lon: longitude in EPSG:4326
+* lat: latitude in EPSG:4326
+* radius: radius in meters
 
