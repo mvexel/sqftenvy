@@ -7,9 +7,7 @@ currently this works for the small area that we got BAG data for at Hack De Over
 
 Nudge me if you want the BAG extract shapefile used to fill the database (see below). You only need this if you want to play with the script and the data yourself. 
 
-You can try the service live here:
-
-	http://lima.schaaltreinen.nl/sqftenvy/4.89465,52.37346,150
+You can try the service live [here](http://lima.schaaltreinen.nl/sqftenvy/4.892498,52.37306,50). This link gives you the average square metrage of apartments around Dam Sq.
 
 db setup
 --------
