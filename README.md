@@ -3,7 +3,7 @@ sqftenvy
 
 this service caclulates the average square metrage of apartments within a radius around a point.
 
-currently this works for the small area that we got BAG data for at Hack De Overheid #3
+currently this works for the small area that we got BAG data for at Hack De Overheid #3. This dataset has a limited geographical [extent](http://www.openstreetmap.org/?minlon=4.877&minlat=52.36&maxlon=4.94&maxlat=52.387&box=yes).
 
 Nudge me if you want the BAG extract shapefile used to fill the database (see below). You only need this if you want to play with the script and the data yourself. 
 
