@@ -21,8 +21,10 @@ db setup
 create the table in postgis:
 	
 	ogr2ogr -overwrite -s_srs EPSG:28992 -t_srs EPSG:4326 -f PostgreSQL PG:dbname=adressen adressen.shp
-	
-make sure you have web.py
+
+	ogr2ogr -overwrite -s_srs EPSG:28992 -t_srs EPSG:4326 -f PostgreSQL PG:dbname=adressen panden.shp	
+
+make sure you have web.py. Use sudo if you need to - I use Mac OSX and homebrew so python modules can be installed without superuser privileges. 
 
 	pip install web.py
 
